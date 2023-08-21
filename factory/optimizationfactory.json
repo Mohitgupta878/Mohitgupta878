@@ -1,0 +1,9 @@
+{
+	"name": "optimizationfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a49a21c0-ba0f-4c01-a315-3e81296955bd",
+		"tenantId": "df467ea6-9967-4911-b8ef-494d82f05407"
+	}
+}
